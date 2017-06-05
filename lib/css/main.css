@@ -3,3 +3,7 @@
     height: 500px;
     align-self: center;
 }
+
+.case > h2 {
+    text-align: center;
+}
