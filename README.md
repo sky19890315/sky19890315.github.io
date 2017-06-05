@@ -1,2 +1,2 @@
 # sky19890315.github.io
-my new blog
+https://sky19890315.github.io/
